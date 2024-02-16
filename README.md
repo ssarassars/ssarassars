@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-### A Little About Me
-### ✨ Carleton University alum with B.S. in Computer Science and a minor in Business
-### ⭐ Aspiring FEE 
+### A Little About Me  
+
+✨ Carleton University alum with B.S. in Computer Science and a minor in Business  
+
+⭐ Aspiring FEE 
 ### 🏝️ Singaporean
 ### 🔭 Working on HackerRank challenges
 ### 📚 Learning ReactJS
