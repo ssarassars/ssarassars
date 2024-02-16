@@ -9,7 +9,6 @@
 📫 How to reach me: ssarassars26@gmail.com  
 🌈 Pronouns: she / her  
 ⚡ Fun fact: I ❤ Skii-ing 
-https://www.tiktok.com/@ssarassars?is_from_webapp=1&sender_device=pc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
