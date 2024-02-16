@@ -6,7 +6,8 @@
 </p>
 
 <h3 align="left">A little about me:</h3>  
-✨ Carleton University alum with B.S. in Computer Science and a minor in Business  
+
+✨ Carleton University alum with B.S. in Computer Science and a minor in Business   
 ⭐ Aspiring FEE  
 🏝️ Singaporean  
 🔭 Working on B75 challenges  
