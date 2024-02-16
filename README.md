@@ -12,7 +12,6 @@
 🏝️ Singaporean  
 🔭 Working on B75 challenges  
 📚 Learning Swift  
-📫 How to reach me: ssarassars26@gmail.com  
 🌈 Pronouns: she / her  
 ⚡ Fun fact: I ❤ Skii-ing 
 
