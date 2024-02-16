@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**ssarassars/ssarassars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Little About Me
+✨ Carleton University alum with B.S. in Computer Science and a minor in Business!
+✨ Aspiring FEE 😄
+🏝️ Singaporean
+🔭 Working on HackerRank challenges
+📚 Learning ReactJS
+👯 Looking to collaborate on OS projects
+📫 How to reach me: ssarassars26@gmail.com
+🌈 Pronouns: she / her
+⚡ Fun fact: I ❤ moi bubbleteee 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
