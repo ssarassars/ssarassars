@@ -1,5 +1,5 @@
 <p align="center"> ### Hi, I'm SARA 👋 </p>
------
+***
 
 ✨ Carleton University alum with B.S. in Computer Science and a minor in Business  
 ⭐ Aspiring FEE  
