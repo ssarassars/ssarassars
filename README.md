@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SARA</h1>
-<h3 align="center">In love with ReactJS</h3>
 
 ✨ Carleton University alum with B.S. in Computer Science and a minor in Business  
 ⭐ Aspiring FEE  
