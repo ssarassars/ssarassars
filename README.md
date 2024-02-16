@@ -5,6 +5,7 @@
 <a href="https://www.tiktok.com/@ssarassars?" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="https://www.tiktok.com/@ssarassars" height="35" width="40" /></a>
 </p>
 
+<h3 align="left">A little about me:</h3>
 ✨ Carleton University alum with B.S. in Computer Science and a minor in Business  
 ⭐ Aspiring FEE  
 🏝️ Singaporean  
