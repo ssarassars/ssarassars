@@ -7,11 +7,12 @@
 
 <h3 align="left">A little about me:</h3>  
 
-✨ Carleton University alum with B.S. in Computer Science and a minor in Business   
+💼 Product Lead at Spotify
+✨ Carleton University alum with B.S. in Computer Science
 ⭐ Angel Investor  
 🏝️ Singaporean  
 🔭 Working on B75 challenges  
-📚 Learning Swift  
+📚 Learning AWS Developer  
 🌈 Pronouns: she / her  
 ⚡ Fun fact: I ❤ Skii-ing 
 
