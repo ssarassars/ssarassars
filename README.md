@@ -7,7 +7,7 @@
 
 <h3 align="left">A little about me:</h3>  
 
-💼 Product Lead at Spotify
+💼 Product Lead at Spotify 
 ✨ Carleton University alum with B.S. in Computer Science
 ⭐ Angel Investor  
 🏝️ Singaporean  
