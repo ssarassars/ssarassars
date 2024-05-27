@@ -7,9 +7,9 @@
 
 <h3 align="left">A little about me:</h3>  
 
-💼 Product Lead at Spotify  
+💼 Technical Program Manager at Cisco  
 ✨ Carleton University alum with B.S. in Computer Science  
-⭐ Angel Investor  
+⭐ Ex - Spotify, IBM, Equinix  
 🏝️ Singaporean  
 🔭 Working on B75 challenges  
 📚 Learning AWS Developer  
